@@ -1,4 +1,3 @@
-  
 class Fizzbuzz:
 
     def __init__(self, start_of_range, end_of_range):
@@ -20,6 +19,6 @@ class Fizzbuzz:
             elif self._divisible_by(num, 5):
                 self.fizzbuzz_list.append("buzz")
             elif self._divisible_by(num, 3):
-                self.fizzbuzz_list.append("fizz")
+                self.fizzbuzz_list.append("sdfgsdfg")
             else:
                 self.fizzbuzz_list.append(num)
