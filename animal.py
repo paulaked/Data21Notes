@@ -9,9 +9,6 @@ class Animal:
     def breathe(self):
         print("one breath in and one out")
 
-    def eat(self):
-        print("nom nom nom")
-
     def moving(self):
         print("forwards, backwards and side to side")
 
